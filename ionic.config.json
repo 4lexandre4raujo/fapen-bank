@@ -1,0 +1,7 @@
+{
+  "name": "fapen-bank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
